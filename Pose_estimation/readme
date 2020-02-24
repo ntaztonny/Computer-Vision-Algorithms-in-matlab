@@ -1,0 +1,5 @@
+Thanks for checking out my pose estimation:
+
+The code requires vl_feat library from https://www.vlfeat.org/
+
+You will also need to use a computational toolbox given in this folder
